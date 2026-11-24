@@ -1,0 +1,15 @@
+# Binary APK files (exceed GitHub size limits)
+*.apk
+*.apks
+
+# Gradle & Build caches
+.gradle/
+build/
+**/build/
+.idea/
+*.iml
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
