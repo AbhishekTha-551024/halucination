@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Junglee Rummy - Indian Rummy</string>
+    <string name="points_rummy">Points Rummy</string>
+    <string name="pool_rummy">Pool Rummy</string>
+    <string name="deals_rummy">Deals Rummy</string>
+    <string name="play_now">Play Now</string>
+    <string name="lobby">Lobby</string>
+    <string name="wallet">Wallet</string>
+    <string name="profile">Profile</string>
+    <string name="add_cash">Add Cash</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="declare">Declare</string>
+    <string name="drop">Drop</string>
+    <string name="sort">Sort</string>
+    <string name="finish">Finish</string>
+</resources>
